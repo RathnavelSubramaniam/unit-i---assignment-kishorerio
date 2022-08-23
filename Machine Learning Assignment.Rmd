@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning Assignment"
-author: "Kasthuri Raja"
+author: "Kishore"
 date: "2022-08-11"
 output: html_document
 ---
